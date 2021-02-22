@@ -1,0 +1,36 @@
+.text-color {
+    color: antiquewhite;
+}
+
+footer {
+    background-color: #C96BAE;
+}
+
+ul.social-network {
+    list-style: none;
+    padding: 0;
+}
+
+ul.social-network li {
+    display: inline;
+    margin: 0;
+    padding: 5px;
+}
+
+.fa {
+    font-size: 35pt;
+    color: antiquewhite;
+    padding: 10px;
+}
+
+.fa-linkedin-square:hover {
+    color: #3b5998;
+}
+
+.fa-github:hover {
+    color: #171515;
+}
+
+.color-roda {
+    background-color: #604166;
+}
