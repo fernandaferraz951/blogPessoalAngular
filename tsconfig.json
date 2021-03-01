@@ -5,7 +5,8 @@
     "baseUrl": "./",
     "outDir": "./dist/out-tsc",
     "forceConsistentCasingInFileNames": true,
-    "strict": true,"strictPropertyInitialization": false, //nao solicita inicialização dos atributos.
+    "strict": true,
+    "strictPropertyInitialization": false, //nao solicita inicialização dos atributos.
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
     "sourceMap": true,
